@@ -26,4 +26,4 @@ I changed the div classed as benefits to aside rather than div. I then changed t
 
 I changed the div classed as footer to footer.
 
-
+I added img alt attributes.
